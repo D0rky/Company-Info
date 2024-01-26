@@ -1,0 +1,7 @@
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\obj\Debug\4350Review-AdamMartinezJr.csprojAssemblyReference.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\obj\Debug\4350Review-AdamMartinezJr.csproj.CoreCompileInputs.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\bin\Debug\4350Review-AdamMartinezJr.exe.config
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\bin\Debug\4350Review-AdamMartinezJr.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\bin\Debug\4350Review-AdamMartinezJr.pdb
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\obj\Debug\4350Review-AdamMartinezJr.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 2\4350Review4-AdamMartinezJr\4350Review-AdamMartinezJr\4350Review-AdamMartinezJr\obj\Debug\4350Review-AdamMartinezJr.pdb
